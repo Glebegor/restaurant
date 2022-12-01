@@ -517,10 +517,12 @@ body
 .AboutUs__Title
 {
     z-index: 1000;
+    font-weight: 400;
     font-family: 'Rubik Distressed', cursive;
 }
 .AboutUs__Items
 {
+    opacity: .9;
     z-index: 1000;
     padding: 0 80px;
     display: flex;
